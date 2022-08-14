@@ -1,5 +1,5 @@
-## TL;DR POINTS:
-#### 🤺 About Me 🤺
-Hobbyist software devloper and electronics tinkerer
-#### ⚒ What Im Working On / Researching 🔬
-Genetic Algorithms
+<h2> Hi, Im Remington Holder </h2>
+
+<h4> Im A Software And Electronics Hobbyist </h4>
+
+<h4> Im Currently Working On And Researchiung Genetic Algorithms </h4>
